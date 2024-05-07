@@ -1,0 +1,15 @@
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\bin\Debug\net6.0\VariablesExercise.exe
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\bin\Debug\net6.0\VariablesExercise.deps.json
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\bin\Debug\net6.0\VariablesExercise.runtimeconfig.json
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\bin\Debug\net6.0\VariablesExercise.dll
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\bin\Debug\net6.0\VariablesExercise.pdb
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.AssemblyInfoInputs.cache
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.AssemblyInfo.cs
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.csproj.CoreCompileInputs.cache
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.sourcelink.json
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.dll
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\refint\VariablesExercise.dll
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.pdb
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.genruntimeconfig.cache
+D:\MyFiles\CSharp\TC\repos\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\ref\VariablesExercise.dll
